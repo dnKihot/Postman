@@ -1,7 +1,3 @@
-
-![AuthenticationKata](https://github.com/dnKihot/Postman/assets/68608133/29296f17-9a5a-449d-8a56-e6e941f8297d)
-
-![RegistrationKata](https://github.com/dnKihot/Postman/assets/68608133/18207878-1f26-4940-9045-a0e03071e20f)
-
-![CurrentKata](https://github.com/dnKihot/Postman/assets/68608133/4a74c8b6-dc0a-4a56-b296-f63ea52e9316)
-
+![Authentication](https://github.com/dnKihot/Postman/assets/68608133/f7b65daa-ea5e-40c3-b667-09b4a2b54fd5)
+![Registration](https://github.com/dnKihot/Postman/assets/68608133/fddd074d-caed-47f3-a230-392e4818a9cd)
+![Current](https://github.com/dnKihot/Postman/assets/68608133/ff43132e-dc8e-425d-b084-dfe5d67d2cd4)
